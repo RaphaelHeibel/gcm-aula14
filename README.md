@@ -53,6 +53,8 @@ coesa.
 
 # questão 7
 
+-Redmine 
+-Bugzilla
 # questão 8 
 
 Jenkins
